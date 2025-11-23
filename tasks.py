@@ -9,6 +9,7 @@ import numpy as np
 #                into individual words and use list comprehensions to make the code cleaner 
 #                and more readable.
 
+
 # List comprehension provides a concise way to create lists by embedding a for-loop inside 
 # square brackets.
 # Syntax: [expression for item in iterable if condition] (condition is optional).
